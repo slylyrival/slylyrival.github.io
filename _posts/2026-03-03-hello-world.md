@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post"
+title: "Hello world!"
 date: 2026-03-03
 ---
 
@@ -17,3 +17,4 @@ First post.
 
 ```python
 print("Hello, world!")
+```
