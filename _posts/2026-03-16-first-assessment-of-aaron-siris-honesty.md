@@ -18,7 +18,7 @@ Last fall, I watched the September 2025 ACIP meeting in which the committee disc
 
 <img src="{{ '/assets/siris-hepb-vaccine-claim.png' | relative_url }}" alt="Tweet from Aaron Siri @AaronSiriSG: CDC's presentation today failed to make clear that the study it cited found HepB vacccine increased deaths: 'HBV-[HepB] vaccinated children 7(1/2)-12 months of age had higher mortality than both prior and subsequent cohorts who had not received HBV (MR = 1.81; 95% CI 1.19-2.75)">
 
-<p>Siri's claim I'm investigating.</p>
+~*Siri's claim I'm investigating.*~
 
 The study linked is [“Hepatitis B vaccination associated with higher female than male mortality in Guinea-bissau: an observational study.”](https://pubmed.ncbi.nlm.nih.gov/15626943/) by Garly et al (2004). 
 
@@ -31,9 +31,9 @@ The question's I aim to answer are:
 
 ## Did Garly (2004) find that the HepB vaccine increased deaths?
 
-Garly (2004) found that the mortality ratio between 7.5-12 month and 1.5-7.5 month age groups  for HBV-unvaccinated cohorts was 0.97 (95% CI, 0.77-1.23) compared to 1.62 for the HBV vaccinated cohorts. 
+Garly (2004) found that the mortality ratio (MRR) between 7.5-12 month and 1.5-7.5 month age groups  for Hepatitis-B vaccine (HBV) HBV-unvaccinated cohorts was 0.97 (95% CI, 0.77-1.23) compared to 1.62 for the HBV vaccinated cohorts. 
 
-Among children in the MV trial, the MRR for HBV to non-HBV children 7.5-12 months was 1.81 (95% CI 1.19, 2.75).
+Among children in the measles vaccine (MV_ trial, the MRR for HBV to non-HBV children 7.5-12 months was 1.81 (95% CI 1.19, 2.75).
 
 Female-to-male MRR was 1.66 (95% CI 0.80-3.45) in HBV+MV children through 12 months. Female-to-male MRR was 2.20 (95% CI 1.07, 4.54) in HBV+MV children through 24 months.
 Female-to-male MRR was 0.95 (95% CI 0.70, 1.32) in MV only children through 24 months.
@@ -50,7 +50,7 @@ The CDC presented the results for Garly (2004) in their presentation [“Non-spe
 
 <img src="{{ '/assets/cdc-non-specific-effects-following-hepb-vaccine-slide-9.png' | relative_url }}" alt="Slide 9 from CDC's presentation addressing the results of Garly (2004)">
 
-<p>CDC's presentation of Garly (2004) results.</p>
+~*CDC's presentation of Garly (2004) results.*~
 
 The result that Siri claimed the CDC failed to present is present under the Comparison 2 bullet on slide 9 of the presentation. Additionally, reviewing the video footage from the ACIP meeting shows that Dr. Su from the CDC stated this exact result at [5:28:14 into the video](https://youtu.be/-6uBNXsYRHQ?t=19694).
 
@@ -60,5 +60,5 @@ The CDC adequately and completely presented the results of the Garly paper, and 
 
 # Interpreting this Investigation
 
-This is an investigation of a single easily-checkable claim that Aaron Siri made. It does not mean that all other claim's made by him are so completely wrong. Given that I did not know beforehand how completely wrong he was going to be, I would update downward's on an estimation of Siri's trustworthiness. 
+This is an investigation of a single easily-checkable claim that Aaron Siri made. It does not mean that all other claims made by him are so completely wrong. Given that I did not know beforehand how completely wrong he was going to be, I would update downwards on an estimation of Siri's trustworthiness. 
   
