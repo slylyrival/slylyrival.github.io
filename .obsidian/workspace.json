@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-04-09-Blaise-Pascal-thinks-you-should-look-at-your-phone-more-(but-without-intention).md",
+                "file": "_posts/2026-03-16-Bash-script-for-generating-post-files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-09-Blaise-Pascal-thinks-you-should-look-at-your-phone-more-(but-without-intention)"
+              "title": "2026-03-16-Bash-script-for-generating-post-files"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "c4f6e59fcd76d498",
   "lastOpenFiles": [
+    "_posts/2026-04-09-Blaise-Pascal-thinks-you-should-look-at-your-phone-more-(but-without-intention).md",
+    "_posts/2026-04-09-pascal-loves-doomscrolling.md",
     "_posts/2026-04-09-Blaise-Pascal-thinks-you-should-look-at-your-phone-more-(but-without-intention).md~",
     "_posts/2026-03-16-Bash-script-for-generating-post-files.md",
-    "_posts/2026-04-09-Blaise-Pascal-thinks-you-should-look-at-your-phone-more-(but-without-intention).md",
     "_notes/Fine-Tuning Argument.md",
     "_posts/2026-03-06-LL108-MD10-recap.md",
     "_notes",
