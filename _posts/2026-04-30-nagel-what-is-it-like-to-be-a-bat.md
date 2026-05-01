@@ -48,30 +48,30 @@ Below is an argument outline I've made of WIILTBAB:
 	- B. Consciousness means that there is something that is like for an organism to be that organism
 	- C. Functional/behavioral accounts are compatible with absence of experience (e.g., robots)
 	- D. Physical explanations -> objective (POV-independent)
-		- 1. But phenomenological features are essential tied to a POV
-		- 2. Ergo physical explanation cannot capture subjective character
+        1. But phenomenological features are essential tied to a POV
+        2. Ergo physical explanation cannot capture subjective character
 - II. Consciousness = subjective character of experience ("what it is like to be a bat")
 	- A. An organism is conscious iff there is something it is like to be that organism
 	- B. Epistemic limitation =/= absence of fact
-		- 1. There exist facts inaccessible to human concepts
-		- 2. These facts are essentially tied to specific points of view
+        1. There exist facts inaccessible to human concepts
+        2. These facts are essentially tied to specific points of view
 	- C. Bat example:
-		- 1. We cannot imagine bat experience using human concepts
-		- 2. Imagination yields only "what it is like for us (humans) to behave like a bat"
-		- 3. Ergo subjective character is not reducible to objective or behavioral description
+        1. We cannot imagine bat experience using human concepts
+        2. Imagination yields only "what it is like for us (humans) to behave like a bat"
+        3. Ergo subjective character is not reducible to objective or behavioral description
 - III. Reduction / Objectivity Argument
 	- A. A reductive, materialist account of consciousness may still be correct
 	- B. Reduction works by identifying an objective reality underlying multiple subjective appearances
-		- 1. Example: lightning -> objective electrical process, subjectively appears as visual strike or auditory boom
-		- 2. Different observers (e.g., Martians) can access same objective reality
+        1. Example: lightning -> objective electrical process, subjectively appears as visual strike or auditory boom
+        2. Different observers (e.g., Martians) can access same objective reality
 	- C. Increasing objectivity = removing dependence on any specific POV
 	- D. Consciousness is essentially tied to a POV
 	- E. Ergo moving toward objectivity removes what must be explained
 	- F. Ergo standard reduction model fails for consciousness
 - IV. Implications for Physicalism
 	- A. Physicalism may be true, but we lack any conception of  how it could be true
-		- 1. Identity claim ("mental = physical") lacks explanatory framework
-		- 2. No theory explains how subjective and physical descriptions converge
+        1. Identity claim ("mental = physical") lacks explanatory framework
+        2. No theory explains how subjective and physical descriptions converge
 	- B. Proposal: develop an "objective phenomenology"
-		- 1. Describe subjective experience without relying on shared POV
-		- 2. Could partially bridge subjective/objective gap
+        1. Describe subjective experience without relying on shared POV
+        2. Could partially bridge subjective/objective gap
