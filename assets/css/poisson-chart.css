@@ -1,0 +1,48 @@
+.slider-control {
+display: flex;
+align-items: center;
+gap: 12px;
+margin-bottom: 16px;
+}
+
+.slider-control label {
+width: 150px;
+}
+
+.slider-control input[type="range"] {
+flex: 1;
+min-width: 0;
+}
+
+.controls {
+width: 100%;
+max-width: 600px;
+margin: 0 auto;
+}
+
+svg rect[id^="bar-"] {
+transition: height 150ms ease-out, y 150ms ease-out;
+}
+
+@media (max-width: 500px) {
+.slider-control {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.slider-control label {
+  width: 150px;
+  grid-column: 1 / -1;
+  grid-row: 1;
+}
+
+.slider-control input[type="range"] {
+  width: 100%;
+  min-width: 0;
+  grid-row: 2;
+}
+
+.slider-control output {
+  grid-row: 2;
+}
+}
