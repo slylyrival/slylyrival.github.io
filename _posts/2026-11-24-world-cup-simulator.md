@@ -5,6 +5,8 @@ _AI disclaimer: I used ChatGPT to tutor me through writing the code for the simu
 ## Introduction
 This is a post documenting some of what I learned in the process of writing a 2026 world cup simulation in order to figure out what I should use as my entry to a pool. 
 
+[Here is the Github repo.](https://github.com/slylyrival/world-cup-simulator/tree/main)
+
 ## The simulator
 The basic procedure I felt was pretty simple.
 
