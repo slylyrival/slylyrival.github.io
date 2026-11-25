@@ -1,4 +1,4 @@
-# How I won $80 through dozens of hours of python and some stolen elos"
+# How I won $80 through dozens of hours of python and some stolen elos
 
 _AI disclaimer: I used ChatGPT to tutor me through writing the code for the simulator discussed in this post as well as straight up write one specific part of it (this is described in the post). I used ChatGPT to work on some of the web design elements in this post. I used ChatGPT to create the example scoring dictionary block. All the planning, outlining, and writing in the post is mine (a human)._ 
 
