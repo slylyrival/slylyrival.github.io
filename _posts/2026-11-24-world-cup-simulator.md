@@ -1,8 +1,9 @@
 # How I won $80 through dozens of hours of python and some stolen elos"
 
-AI disclaimer test
+_AI disclaimer: I used ChatGPT to tutor me through writing the code for the simulator discussed in this post as well as straight up write one specific part of it (this is described in the post). I used ChatGPT to work on some of the web design elements in this post. I used ChatGPT to create the example scoring dictionary block. All the planning, outlining, and writing in the post is mine (a human)._ 
 
 ## Introduction
+This is a post documenting some of what I learned in the process of writing a 2026 world cup simulation in order to figure out what I should use as my entry to a pool. 
 
 ## The simulator
 The basic procedure I felt was pretty simple.

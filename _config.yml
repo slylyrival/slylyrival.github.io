@@ -1,3 +1,9 @@
 theme: minima
 title: Uncondemning Monk
 description: Writing and notes
+
+markdown: kramdown
+
+kramdown:
+    input: GFM
+    math_engine: mathjax

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" role="img" aria-labelledby="title desc">
+<title id="title">Predicted World Cup knockout bracket</title><desc id="desc">Spain defeats Argentina 3–2; Netherlands finishes third.</desc>
+<rect width="1000" height="720" rx="12" fill="#ffffff"/>
+<g font-family="system-ui,sans-serif" fill="#20252b">
+<text x="106" y="30" text-anchor="middle" font-size="15" font-weight="600">Round of 32</text>
+<text x="303" y="30" text-anchor="middle" font-size="15" font-weight="600">Round of 16</text>
+<text x="500" y="30" text-anchor="middle" font-size="15" font-weight="600">Quarterfinals</text>
+<text x="697" y="30" text-anchor="middle" font-size="15" font-weight="600">Semifinals</text>
+<text x="894" y="30" text-anchor="middle" font-size="15" font-weight="600">Champion</text>
+<path d="M196 68.0 H204 V108.0 H196 M204 88.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M196 148.0 H204 V188.0 H196 M204 168.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M196 228.0 H204 V268.0 H196 M204 248.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M196 308.0 H204 V348.0 H196 M204 328.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M196 388.0 H204 V428.0 H196 M204 408.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M196 468.0 H204 V508.0 H196 M204 488.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M196 548.0 H204 V588.0 H196 M204 568.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M196 628.0 H204 V668.0 H196 M204 648.0 H213" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M393 88.0 H401 V168.0 H393 M401 128.0 H410" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M393 248.0 H401 V328.0 H393 M401 288.0 H410" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M393 408.0 H401 V488.0 H393 M401 448.0 H410" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M393 568.0 H401 V648.0 H393 M401 608.0 H410" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M590 128.0 H598 V288.0 H590 M598 208.0 H607" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M590 448.0 H598 V608.0 H590 M598 528.0 H607" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<path d="M787 208.0 H795 V528.0 H787 M795 368.0 H804" fill="none" stroke="#9ca3af" stroke-width="1.4"/>
+<rect x="16" y="53.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="73.0" text-anchor="middle" font-size="14" fill="#20252b">Germany</text>
+<rect x="16" y="93.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="113.0" text-anchor="middle" font-size="14" fill="#20252b">France</text>
+<rect x="16" y="133.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="153.0" text-anchor="middle" font-size="14" fill="#20252b">Czechia</text>
+<rect x="16" y="173.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="193.0" text-anchor="middle" font-size="14" fill="#20252b">Netherlands</text>
+<rect x="16" y="213.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="233.0" text-anchor="middle" font-size="14" fill="#20252b">Colombia</text>
+<rect x="16" y="253.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="273.0" text-anchor="middle" font-size="14" fill="#20252b">Spain</text>
+<rect x="16" y="293.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="313.0" text-anchor="middle" font-size="12" fill="#20252b">Bosnia and Herzegovina</text>
+<rect x="16" y="333.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="353.0" text-anchor="middle" font-size="14" fill="#20252b">Belgium</text>
+<rect x="16" y="373.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="393.0" text-anchor="middle" font-size="14" fill="#20252b">Brazil</text>
+<rect x="16" y="413.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="433.0" text-anchor="middle" font-size="14" fill="#20252b">Ecuador</text>
+<rect x="16" y="453.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="473.0" text-anchor="middle" font-size="14" fill="#20252b">Mexico</text>
+<rect x="16" y="493.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="513.0" text-anchor="middle" font-size="14" fill="#20252b">England</text>
+<rect x="16" y="533.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="553.0" text-anchor="middle" font-size="14" fill="#20252b">Argentina</text>
+<rect x="16" y="573.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="593.0" text-anchor="middle" font-size="14" fill="#20252b">Paraguay</text>
+<rect x="16" y="613.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="633.0" text-anchor="middle" font-size="14" fill="#20252b">Switzerland</text>
+<rect x="16" y="653.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="106" y="673.0" text-anchor="middle" font-size="14" fill="#20252b">Portugal</text>
+<rect x="213" y="73.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="93.0" text-anchor="middle" font-size="14" fill="#20252b">France</text>
+<rect x="213" y="153.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="173.0" text-anchor="middle" font-size="14" fill="#20252b">Netherlands</text>
+<rect x="213" y="233.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="253.0" text-anchor="middle" font-size="14" fill="#20252b">Spain</text>
+<rect x="213" y="313.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="333.0" text-anchor="middle" font-size="14" fill="#20252b">Belgium</text>
+<rect x="213" y="393.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="413.0" text-anchor="middle" font-size="14" fill="#20252b">Brazil</text>
+<rect x="213" y="473.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="493.0" text-anchor="middle" font-size="14" fill="#20252b">England</text>
+<rect x="213" y="553.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="573.0" text-anchor="middle" font-size="14" fill="#20252b">Argentina</text>
+<rect x="213" y="633.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="303" y="653.0" text-anchor="middle" font-size="14" fill="#20252b">Portugal</text>
+<rect x="410" y="113.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="500" y="133.0" text-anchor="middle" font-size="14" fill="#20252b">Netherlands</text>
+<rect x="410" y="273.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="500" y="293.0" text-anchor="middle" font-size="14" fill="#20252b">Spain</text>
+<rect x="410" y="433.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="500" y="453.0" text-anchor="middle" font-size="14" fill="#20252b">Brazil</text>
+<rect x="410" y="593.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="500" y="613.0" text-anchor="middle" font-size="14" fill="#20252b">Argentina</text>
+<rect x="607" y="193.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="697" y="213.0" text-anchor="middle" font-size="14" fill="#20252b">Spain</text>
+<rect x="607" y="513.0" width="180" height="30" rx="5" fill="#f3f5f7" stroke="#c8cdd2"/><text x="697" y="533.0" text-anchor="middle" font-size="14" fill="#20252b">Argentina</text>
+<rect x="804" y="353.0" width="180" height="30" rx="5" fill="#17633d" stroke="#c8cdd2"/><text x="894" y="373.0" text-anchor="middle" font-size="14" fill="white">Spain</text>
+<text x="894" y="400" text-anchor="middle" font-size="13">3–2 vs. Argentina</text><text x="500" y="708" text-anchor="middle" font-size="14">Third place: Netherlands</text></g></svg>

@@ -1,0 +1,14 @@
+# Jekyll generated files
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Local Ruby environment
+.bundle/
+vendor/
+Gemfile
+Gemfile.lock
+
+# Local development prototypes
+elo_chart_test.html
